@@ -28,7 +28,7 @@ public class Main {
     }
 
     public static void math() {
-        short num1 = 50, num2 = 10;
+        short num1 = 50, num2 = 20;
         int res = num1 + num2;
     }
 
